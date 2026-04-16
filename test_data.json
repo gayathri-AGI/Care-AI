@@ -1,0 +1,37 @@
+[
+  {"question": "What are symptoms of diabetes?", "expected_keywords": ["thirst", "urination", "fatigue"]},
+  {"question": "What causes high blood pressure?", "expected_keywords": ["stress", "diet", "salt"]},
+  {"question": "What is hepatitis?", "expected_keywords": ["liver", "inflammation"]},
+  {"question": "What are symptoms of anemia?", "expected_keywords": ["fatigue", "weakness", "pale"]},
+  {"question": "What causes stomach ulcers?", "expected_keywords": ["bacteria", "h pylori", "acid"]},
+
+  {"question": "I have fever and headache, what could it be?", "expected_keywords": ["infection", "viral", "flu"]},
+  {"question": "I feel tired all the time, what could be the reason?", "expected_keywords": ["anemia", "sleep", "stress"]},
+  {"question": "I have chest pain when breathing, what might it be?", "expected_keywords": ["lung", "infection", "pleurisy"]},
+  {"question": "I have stomach pain after eating, why?", "expected_keywords": ["gastritis", "ulcer", "indigestion"]},
+  {"question": "I have cough for two weeks, is it serious?", "expected_keywords": ["infection", "doctor", "chronic"]},
+
+  {"question": "Can antibiotics cure viral infections?", "expected_keywords": ["no", "viral", "not effective"]},
+  {"question": "Can liver disease spread by touch?", "expected_keywords": ["no", "not contagious"]},
+  {"question": "Is fever always dangerous?", "expected_keywords": ["no", "not always"]},
+  {"question": "Can stress cause physical illness?", "expected_keywords": ["yes", "stress", "health"]},
+  {"question": "Can drinking water cure all diseases?", "expected_keywords": ["no", "not cure"]},
+
+  {"question": "What is dengue fever?", "expected_keywords": ["virus", "mosquito", "fever"]},
+  {"question": "What are symptoms of COVID-19?", "expected_keywords": ["fever", "cough", "breathing"]},
+  {"question": "What is liver cirrhosis?", "expected_keywords": ["liver", "scarring"]},
+  {"question": "What is malaria?", "expected_keywords": ["parasite", "mosquito", "fever"]},
+  {"question": "What is tuberculosis?", "expected_keywords": ["lungs", "bacteria", "cough"]},
+
+  {"question": "How to prevent diabetes?", "expected_keywords": ["diet", "exercise", "weight"]},
+  {"question": "How to keep liver healthy?", "expected_keywords": ["alcohol", "diet", "exercise"]},
+  {"question": "What foods are good for health?", "expected_keywords": ["fruits", "vegetables", "balanced"]},
+  {"question": "How much water should we drink daily?", "expected_keywords": ["hydration", "water", "daily"]},
+  {"question": "How to reduce stress?", "expected_keywords": ["exercise", "sleep", "relax"]},
+
+  {"question": "I have high fever and vomiting, what should I do?", "expected_keywords": ["doctor", "hydration", "infection"]},
+  {"question": "I feel dizzy and fainted, what could be wrong?", "expected_keywords": ["low", "pressure", "doctor"]},
+  {"question": "I have severe chest pain, what should I do?", "expected_keywords": ["emergency", "doctor", "hospital"]},
+  {"question": "I have breathing difficulty, what could it be?", "expected_keywords": ["asthma", "infection", "emergency"]},
+  {"question": "I have sudden weight loss, is it serious?", "expected_keywords": ["yes", "doctor", "condition"]}
+]
